@@ -9,7 +9,7 @@ The model is trained from scratch on a custom dataset for mask detection and lev
 
 ## 🚀 Live Demo
 👉 **Streamlit / Web App:**  
-[Your Deployment Link Here]  
+https://mask-no-mask-detection.streamlit.app/  
 
 ---
 
@@ -35,3 +35,4 @@ The model is trained from scratch on a custom dataset for mask detection and lev
 1. Clone the repository  
 ```bash
 git clone https://github.com/yourusername/mask-no-mask-detection.git
+
